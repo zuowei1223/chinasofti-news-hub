@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "interval_minutes": 60,
+  "cron_expression": "",
+  "focus_keywords": [
+    "软通动力",
+    "软通",
+    "Chinasofti",
+    "财报"
+  ],
+  "focus_categories": [
+    "产品技术",
+    "财务投资",
+    "公司动态"
+  ],
+  "sources": {
+    "baidu": true,
+    "sogou": true,
+    "rss": true,
+    "preset": true
+  },
+  "max_articles_per_crawl": 20,
+  "auto_report": false,
+  "dedup_by_title": true
+}
