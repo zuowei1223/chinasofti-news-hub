@@ -1,0 +1,646 @@
+[
+  {
+    "status": "success",
+    "crawled": 28,
+    "saved": 20,
+    "new_articles": 20,
+    "sources": [
+      "baidu",
+      "rss",
+      "preset"
+    ],
+    "message": "定时抓取完成",
+    "id": 1,
+    "timestamp": "2026-05-28T01:52:04.067759"
+  },
+  {
+    "status": "success",
+    "crawled": 28,
+    "saved": 20,
+    "new_articles": 20,
+    "sources": [
+      "baidu",
+      "rss",
+      "preset"
+    ],
+    "message": "定时抓取完成",
+    "id": 2,
+    "timestamp": "2026-05-28T02:51:07.639938"
+  },
+  {
+    "task_id": "aa36b457412f",
+    "task_name": "测试任务",
+    "status": "success",
+    "crawled": 26,
+    "saved": 20,
+    "new_articles": 20,
+    "sources": [
+      "baidu",
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 3,
+    "timestamp": "2026-05-28T03:34:16.606606"
+  },
+  {
+    "task_id": "fae21f2168ee",
+    "task_name": "默认抓取任务",
+    "status": "success",
+    "crawled": 26,
+    "saved": 20,
+    "new_articles": 20,
+    "sources": [
+      "baidu",
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 4,
+    "timestamp": "2026-05-28T04:02:15.808532"
+  },
+  {
+    "task_id": "aa36b457412f",
+    "task_name": "测试任务",
+    "status": "success",
+    "crawled": 26,
+    "saved": 20,
+    "new_articles": 20,
+    "sources": [
+      "baidu",
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 5,
+    "timestamp": "2026-05-28T04:02:39.950406"
+  },
+  {
+    "task_id": "aa36b457412f",
+    "task_name": "测试任务",
+    "status": "success",
+    "crawled": 26,
+    "saved": 20,
+    "new_articles": 20,
+    "sources": [
+      "baidu",
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 6,
+    "timestamp": "2026-05-28T04:32:33.092898"
+  },
+  {
+    "task_id": "fae21f2168ee",
+    "task_name": "默认抓取任务",
+    "status": "success",
+    "crawled": 26,
+    "saved": 20,
+    "new_articles": 20,
+    "sources": [
+      "baidu",
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 7,
+    "timestamp": "2026-05-28T05:02:15.566592"
+  },
+  {
+    "task_id": "aa36b457412f",
+    "task_name": "测试任务",
+    "status": "success",
+    "crawled": 26,
+    "saved": 20,
+    "new_articles": 20,
+    "sources": [
+      "baidu",
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 8,
+    "timestamp": "2026-05-28T05:02:29.921754"
+  },
+  {
+    "task_id": "aa36b457412f",
+    "task_name": "测试任务",
+    "status": "success",
+    "crawled": 26,
+    "saved": 20,
+    "new_articles": 20,
+    "sources": [
+      "baidu",
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 9,
+    "timestamp": "2026-05-28T05:32:30.714836"
+  },
+  {
+    "task_id": "fae21f2168ee",
+    "task_name": "默认抓取任务",
+    "status": "success",
+    "crawled": 26,
+    "saved": 20,
+    "new_articles": 20,
+    "sources": [
+      "baidu",
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 10,
+    "timestamp": "2026-05-28T06:02:14.280563"
+  },
+  {
+    "task_id": "aa36b457412f",
+    "task_name": "测试任务",
+    "status": "success",
+    "crawled": 26,
+    "saved": 20,
+    "new_articles": 20,
+    "sources": [
+      "baidu",
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 11,
+    "timestamp": "2026-05-28T06:02:31.081836"
+  },
+  {
+    "task_id": "aa36b457412f",
+    "task_name": "测试任务",
+    "status": "success",
+    "crawled": 26,
+    "saved": 20,
+    "new_articles": 20,
+    "sources": [
+      "baidu",
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 12,
+    "timestamp": "2026-05-28T06:32:25.704231"
+  },
+  {
+    "task_id": "fae21f2168ee",
+    "task_name": "默认抓取任务",
+    "status": "success",
+    "crawled": 26,
+    "saved": 20,
+    "new_articles": 20,
+    "sources": [
+      "baidu",
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 13,
+    "timestamp": "2026-05-28T07:02:14.396099"
+  },
+  {
+    "task_id": "aa36b457412f",
+    "task_name": "测试任务",
+    "status": "success",
+    "crawled": 26,
+    "saved": 20,
+    "new_articles": 20,
+    "sources": [
+      "baidu",
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 14,
+    "timestamp": "2026-05-28T07:02:29.412594"
+  },
+  {
+    "task_id": "aa36b457412f",
+    "task_name": "测试任务",
+    "status": "success",
+    "crawled": 26,
+    "saved": 20,
+    "new_articles": 20,
+    "sources": [
+      "baidu",
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 15,
+    "timestamp": "2026-05-28T07:32:30.792884"
+  },
+  {
+    "task_id": "fae21f2168ee",
+    "task_name": "默认抓取任务",
+    "status": "success",
+    "crawled": 26,
+    "saved": 20,
+    "new_articles": 20,
+    "sources": [
+      "baidu",
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 16,
+    "timestamp": "2026-05-28T08:02:29.622543"
+  },
+  {
+    "task_id": "aa36b457412f",
+    "task_name": "测试任务",
+    "status": "success",
+    "crawled": 26,
+    "saved": 20,
+    "new_articles": 20,
+    "sources": [
+      "baidu",
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 17,
+    "timestamp": "2026-05-28T08:02:32.541737"
+  },
+  {
+    "task_id": "aa36b457412f",
+    "task_name": "测试任务",
+    "status": "success",
+    "crawled": 26,
+    "saved": 20,
+    "new_articles": 20,
+    "sources": [
+      "baidu",
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 18,
+    "timestamp": "2026-05-28T08:32:44.675815"
+  },
+  {
+    "task_id": "aa36b457412f",
+    "task_name": "测试任务",
+    "status": "success",
+    "crawled": 26,
+    "saved": 20,
+    "new_articles": 20,
+    "sources": [
+      "baidu",
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 19,
+    "timestamp": "2026-05-28T09:02:49.092941"
+  },
+  {
+    "task_id": "fae21f2168ee",
+    "task_name": "默认抓取任务",
+    "status": "success",
+    "crawled": 26,
+    "saved": 20,
+    "new_articles": 20,
+    "sources": [
+      "baidu",
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 20,
+    "timestamp": "2026-05-28T09:04:04.938923"
+  },
+  {
+    "task_id": "aa36b457412f",
+    "task_name": "测试任务",
+    "status": "success",
+    "crawled": 26,
+    "saved": 20,
+    "new_articles": 20,
+    "sources": [
+      "baidu",
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 21,
+    "timestamp": "2026-05-28T09:34:52.963329"
+  },
+  {
+    "task_id": "fae21f2168ee",
+    "task_name": "默认抓取任务",
+    "status": "success",
+    "crawled": 26,
+    "saved": 20,
+    "new_articles": 20,
+    "sources": [
+      "baidu",
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 22,
+    "timestamp": "2026-05-28T10:03:05.966201"
+  },
+  {
+    "task_id": "aa36b457412f",
+    "task_name": "测试任务",
+    "status": "success",
+    "crawled": 26,
+    "saved": 20,
+    "new_articles": 20,
+    "sources": [
+      "baidu",
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 23,
+    "timestamp": "2026-05-28T10:03:22.704842"
+  },
+  {
+    "task_id": "aa36b457412f",
+    "task_name": "测试任务",
+    "status": "success",
+    "crawled": 26,
+    "saved": 20,
+    "new_articles": 20,
+    "sources": [
+      "baidu",
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 24,
+    "timestamp": "2026-05-28T10:33:05.090732"
+  },
+  {
+    "task_id": "fae21f2168ee",
+    "task_name": "默认抓取任务",
+    "status": "success",
+    "crawled": 26,
+    "saved": 20,
+    "new_articles": 20,
+    "sources": [
+      "baidu",
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 25,
+    "timestamp": "2026-05-28T11:03:13.183208"
+  },
+  {
+    "task_id": "aa36b457412f",
+    "task_name": "测试任务",
+    "status": "success",
+    "crawled": 26,
+    "saved": 20,
+    "new_articles": 20,
+    "sources": [
+      "baidu",
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 26,
+    "timestamp": "2026-05-28T11:03:15.341882"
+  },
+  {
+    "task_id": "aa36b457412f",
+    "task_name": "测试任务",
+    "status": "success",
+    "crawled": 26,
+    "saved": 20,
+    "new_articles": 20,
+    "sources": [
+      "baidu",
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 27,
+    "timestamp": "2026-05-28T11:32:18.752363"
+  },
+  {
+    "task_id": "fae21f2168ee",
+    "task_name": "默认抓取任务",
+    "status": "success",
+    "crawled": 26,
+    "saved": 20,
+    "new_articles": 20,
+    "sources": [
+      "baidu",
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 28,
+    "timestamp": "2026-05-28T12:01:47.517097"
+  },
+  {
+    "task_id": "aa36b457412f",
+    "task_name": "测试任务",
+    "status": "success",
+    "crawled": 26,
+    "saved": 20,
+    "new_articles": 20,
+    "sources": [
+      "baidu",
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 29,
+    "timestamp": "2026-05-28T12:01:59.117313"
+  },
+  {
+    "task_id": "aa36b457412f",
+    "task_name": "测试任务",
+    "status": "success",
+    "crawled": 26,
+    "saved": 20,
+    "new_articles": 20,
+    "sources": [
+      "baidu",
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 30,
+    "timestamp": "2026-05-28T12:32:08.293731"
+  },
+  {
+    "task_id": "fae21f2168ee",
+    "task_name": "默认抓取任务",
+    "status": "success",
+    "crawled": 10,
+    "saved": 10,
+    "new_articles": 10,
+    "sources": [
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 31,
+    "timestamp": "2026-05-28T20:54:52.986642"
+  },
+  {
+    "task_id": "fae21f2168ee",
+    "task_name": "默认抓取任务",
+    "status": "success",
+    "crawled": 10,
+    "saved": 10,
+    "new_articles": 10,
+    "sources": [
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 32,
+    "timestamp": "2026-05-28T21:59:45.632353"
+  },
+  {
+    "task_id": "fae21f2168ee",
+    "task_name": "默认抓取任务",
+    "status": "success",
+    "crawled": 10,
+    "saved": 10,
+    "new_articles": 10,
+    "sources": [
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 33,
+    "timestamp": "2026-05-28T22:59:44.477960"
+  },
+  {
+    "task_id": "fae21f2168ee",
+    "task_name": "默认抓取任务",
+    "status": "success",
+    "crawled": 10,
+    "saved": 10,
+    "new_articles": 10,
+    "sources": [
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 34,
+    "timestamp": "2026-05-28T23:59:43.663306"
+  },
+  {
+    "task_id": "fae21f2168ee",
+    "task_name": "默认抓取任务",
+    "status": "success",
+    "crawled": 10,
+    "saved": 10,
+    "new_articles": 10,
+    "sources": [
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 35,
+    "timestamp": "2026-05-29T00:59:43.618834"
+  },
+  {
+    "task_id": "fae21f2168ee",
+    "task_name": "默认抓取任务",
+    "status": "success",
+    "crawled": 10,
+    "saved": 10,
+    "new_articles": 10,
+    "sources": [
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 36,
+    "timestamp": "2026-05-29T01:59:43.876620"
+  },
+  {
+    "task_id": "fae21f2168ee",
+    "task_name": "默认抓取任务",
+    "status": "success",
+    "crawled": 10,
+    "saved": 10,
+    "new_articles": 10,
+    "sources": [
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 37,
+    "timestamp": "2026-05-29T02:59:44.374847"
+  },
+  {
+    "task_id": "fae21f2168ee",
+    "task_name": "默认抓取任务",
+    "status": "success",
+    "crawled": 10,
+    "saved": 10,
+    "new_articles": 10,
+    "sources": [
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 38,
+    "timestamp": "2026-05-29T03:59:43.719427"
+  },
+  {
+    "task_id": "fae21f2168ee",
+    "task_name": "默认抓取任务",
+    "status": "success",
+    "crawled": 10,
+    "saved": 10,
+    "new_articles": 10,
+    "sources": [
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 39,
+    "timestamp": "2026-05-29T04:59:42.956459"
+  },
+  {
+    "task_id": "fae21f2168ee",
+    "task_name": "默认抓取任务",
+    "status": "success",
+    "crawled": 10,
+    "saved": 10,
+    "new_articles": 10,
+    "sources": [
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 40,
+    "timestamp": "2026-05-29T05:59:42.131968"
+  },
+  {
+    "task_id": "fae21f2168ee",
+    "task_name": "默认抓取任务",
+    "status": "success",
+    "crawled": 10,
+    "saved": 10,
+    "new_articles": 10,
+    "sources": [
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 41,
+    "timestamp": "2026-05-29T06:59:44.317454"
+  },
+  {
+    "task_id": "fae21f2168ee",
+    "task_name": "默认抓取任务",
+    "status": "success",
+    "crawled": 10,
+    "saved": 10,
+    "new_articles": 10,
+    "sources": [
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 42,
+    "timestamp": "2026-05-29T07:59:43.566451"
+  },
+  {
+    "task_id": "fae21f2168ee",
+    "task_name": "默认抓取任务",
+    "status": "success",
+    "crawled": 10,
+    "saved": 10,
+    "new_articles": 10,
+    "sources": [
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 43,
+    "timestamp": "2026-05-29T08:59:44.645977"
+  },
+  {
+    "task_id": "fae21f2168ee",
+    "task_name": "默认抓取任务",
+    "status": "success",
+    "crawled": 10,
+    "saved": 10,
+    "new_articles": 10,
+    "sources": [
+      "preset"
+    ],
+    "message": "抓取完成",
+    "id": 44,
+    "timestamp": "2026-05-29T09:59:45.457659"
+  }
+]
