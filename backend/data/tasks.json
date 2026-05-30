@@ -1,0 +1,35 @@
+[
+  {
+    "id": "fae21f2168ee",
+    "name": "默认抓取任务",
+    "enabled": false,
+    "interval_minutes": 60,
+    "cron_expression": "",
+    "keywords": [
+      "软通动力",
+      "软通"
+    ],
+    "categories": [
+      "产品技术",
+      "合作生态",
+      "市场拓展"
+    ],
+    "sources": [
+      "rss",
+      "preset"
+    ],
+    "created_at": "2026-05-28T02:58:38.054395",
+    "updated_at": "2026-05-29T10:48:08.986203",
+    "last_run": "2026-05-29T09:59:45.455615",
+    "last_result": {
+      "status": "success",
+      "crawled": 10,
+      "saved": 10,
+      "new_articles": 10,
+      "sources": [
+        "preset"
+      ],
+      "message": "抓取完成"
+    }
+  }
+]
