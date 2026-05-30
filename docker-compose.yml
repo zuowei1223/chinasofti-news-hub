@@ -1,0 +1,28 @@
+version: "3.8"
+
+services:
+  backend:
+    build: ./backend
+    container_name: news-backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+    environment:
+      - XFYUN_API_KEY=${XFYUN_API_KEY:-}
+      - XFYUN_BASE_URL=${XFYUN_BASE_URL:-https://maas-coding-api.cn-huabei-1.xf-yun.com/v2}
+      - AI_MODEL=${AI_MODEL:-astron-code-latest}
+      - DEEPSEEK_API_KEY=${DEEPSEEK_API_KEY:-}
+      - OPENAI_API_KEY=${OPENAI_API_KEY:-}
+    restart: unless-stopped
+
+  frontend:
+    build: ./frontend
+    container_name: news-frontend
+    ports:
+      - "3000:3000"
+    environment:
+      - NEXT_PUBLIC_API_URL=http://backend:8000
+    depends_on:
+      - backend
+    restart: unless-stopped
